@@ -1,5 +1,4 @@
-Hello, My name is Raneem Ali and I am a recent graduate from George Mason Univeristy.
-  I am pursuing a major in Management Information Systems specializing in a combination of Data analytics, computer languages, and cloud computing. 
+Hello, My name is Raneem Ali and I am a recent graduate from George Mason Univeristy with a bachelor's degree in Management Information Systems specializing in a combination of Data analytics, computer languages, and cloud computing. 
   Adept at creating innovative solutions for complex problems under dynamic, fast-paced training environments. 
   Excels in analyzing and interpreting data to output efficiency. Experienced in both front and back-end development. 
   Eager and willing to learn new skills quickly and adapt in any situation.
